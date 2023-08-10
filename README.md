@@ -12,7 +12,7 @@ Projeto criado na aula da Alura Mobile
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
-## Detalhes do projeto
+## criação para funcionar em plataformas mobile
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+
   ![image](https://github.com/marciocapendeli/alurabook/assets/139601887/8a3db39a-1b0c-4d86-a5f2-6c38a5635d3f)
